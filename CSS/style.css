@@ -1,0 +1,46 @@
+hr{
+                
+    width: 5%;
+    border-style: dotted;
+    border-top-style: none;
+    border-color: gray;
+    border-width:5px;
+
+}
+body{
+    background-color:#EAF6F6
+}
+h3{
+    color:hsl(180, 26%, 84%);
+    font-family:Arial ;
+    background-color:#559797;
+}
+h1{
+     color:hsl(178, 31%, 46%);
+    font-family: Georgia;
+    color: rgb(2, 20, 20);
+    
+
+
+}
+
+a{
+    color:#020213;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(61, 147, 209);
+    font-size:large
+    
+
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+img:hover{
+    border-radius: 60px;
+    
+}
